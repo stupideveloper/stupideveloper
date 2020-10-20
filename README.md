@@ -1,6 +1,9 @@
-### Hi There 👋
-#### I'm Lachlan
+### Hi There 👋 I'm Lachlan!
+##### widelachie
 
+
+- I'm the founder of Lachlan Kemp, a web & graphic design studio.
+- 🌱 I'm currently working on a top secret multicdn for js, 🤫.
 <!--
 **widelachie/widelachie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
