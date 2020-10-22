@@ -6,7 +6,7 @@
 ## I'm a developer, designer and cool guy
 
 - 🌱 I'm currently learning C++
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other software developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love taekwondo and my bass!
 ## I'm a developer, designer and cool guy
