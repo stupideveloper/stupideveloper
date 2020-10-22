@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other software developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love taekwondo and my bass!
-## I'm a developer, designer and cool guy
+### Contact me at me@lachlankemp.com
 
 
 ### What I'm good at
@@ -31,7 +31,7 @@
 ![widelachie's github stats](https://github-readme-stats.vercel.app/api?username=widelachie&show_icons=true&theme=vue&include_all_commits)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widelachie&theme=vue)
 
-[website]: https://lachlankemp.comf
-[instagram]: https://instagram.com/codeSTACKr
+[website]: https://lachlankemp.com
+[instagram]: https://instagram.com/widelachie
 [email]: mailto:me@lachlankemp.com
 
