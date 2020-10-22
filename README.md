@@ -29,7 +29,7 @@
 
 ### GitHub Stats
 ![widelachie's github stats](https://github-readme-stats.vercel.app/api?username=widelachie&show_icons=true&theme=vue&include_all_commits)
-[![widelachie's github stats](https://github-readme-stats.vercel.app/api?username=widelachie&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widelachie&theme=vue)]
 
 [website]: https://lachlankemp.comf
 [instagram]: https://instagram.com/codeSTACKr
