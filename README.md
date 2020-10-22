@@ -9,14 +9,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love taekwondo and my bass!
-
-
-### Connect with me:
-[![Email](https://img.shields.io/github/followers/widelachie?style=for-the-badge)](https://github.com/widelachie)
-
 ## I'm a developer, designer and cool guy
 
-<br />
 
 ### What I'm good at:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]
@@ -41,5 +35,5 @@
 
 [website]: https://lachlankemp.com
 [instagram]: https://instagram.com/codeSTACKr
-[email] mailto:me@lachlankemp.com
+[email]: mailto:me@lachlankemp.com
 
