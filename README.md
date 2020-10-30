@@ -1,3 +1,5 @@
+![Bubs](bubs.png)
+
 ### Hi there, I'm Lachlan - aka [widelachie][website] 👋
 
 [![Website](https://img.shields.io/website?label=lachlankemp.com&style=for-the-badge&url=https%3A%2F%2Flachlankemp.com)](https://lachlankemp.com)
