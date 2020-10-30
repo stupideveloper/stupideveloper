@@ -1,4 +1,6 @@
-![Bubs](bubs.png)
+<img src="bubs.png"
+     alt="bubs"
+     style="float: left; margin-right: 10px;" />
 
 ### Hi there, I'm Lachlan - aka [widelachie][website] 👋
 
