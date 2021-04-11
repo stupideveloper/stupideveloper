@@ -40,7 +40,7 @@
 ### GitHub Stats
 ![widelachie's github stats](https://github-readme-stats.vercel.app/api?username=widelachie&show_icons=true&theme=vue&include_all_commits)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widelachie&theme=vue)
-[![trophy](https://github-profile-trophy.vercel.app/?username=widelachie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=widelachie&theme=onedark&no-bg=true&no-frame=true)]
 
 [website]: https://www.accelorsoftware.com.com
 [email]: mailto:me@lachlankemp.com
