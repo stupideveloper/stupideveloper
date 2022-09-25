@@ -7,17 +7,7 @@
 [![Github](https://img.shields.io/github/followers/stupideveloper?style=for-the-badge)](https://github.com/stupideveloper)
 
 ## I'm a developer, designer and cool guy
-
-- 🌱 I'm currently learning C++
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I only use tools that have a dark mode.
 ### Contact me at me@lachlankemp.com
-### Visit my website @ [lachlankemp.com](https://lachlankemp.com)
-
-  <a href="https://app.daily.dev/stupideveloper"><img src="https://api.daily.dev/devcards/f23a2bdd08de4939834a0dc57cc7b042.png?r=6n2" width="400" alt="Lachlan Kemp's Dev Card"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stupideveloper&theme=dark" alt="Lachlan Kemp's Most Popular Languages" />
-
 
 [website]: https://lachlankemp.com
 [email]: mailto:me@lachlankemp.com
